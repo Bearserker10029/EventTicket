@@ -1,4 +1,4 @@
-package com.example.lab10_iweb_20202132.Daos;
+package com.example.EventTicket.Daos;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

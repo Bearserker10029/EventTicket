@@ -1,7 +1,7 @@
-package com.example.lab10_iweb_20202132.Daos;
+package com.example.EventTicket.Daos;
 
-import com.example.lab10_iweb_20202132.Beans.evento;
-import com.example.lab10_iweb_20202132.Dto.listaeventoDTO;
+import com.example.EventTicket.Beans.evento;
+import com.example.EventTicket.Dto.listaeventoDTO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

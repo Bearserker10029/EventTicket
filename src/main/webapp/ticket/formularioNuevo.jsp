@@ -1,7 +1,7 @@
 <%@page import="java.util.ArrayList" %>
-<%@ page import="com.example.lab10_iweb_20202132.Beans.evento" %>
+<%@ page import="com.example.EventTicket.Beans.evento" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
-<jsp:useBean scope="request" id="listaevento" type="java.util.ArrayList<com.example.lab10_iweb_20202132.Beans.evento>"/>
+<jsp:useBean scope="request" id="listaevento" type="java.util.ArrayList<com.example.EventTicket.Beans.evento>"/>
 
 <!DOCTYPE html>
 <html>

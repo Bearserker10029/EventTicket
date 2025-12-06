@@ -1,4 +1,4 @@
-package com.example.lab10_iweb_20202132.Beans;
+package com.example.EventTicket.Beans;
 
 import java.sql.Timestamp;
 

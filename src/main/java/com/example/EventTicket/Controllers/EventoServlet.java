@@ -1,8 +1,8 @@
-package com.example.lab10_iweb_20202132.Controllers;
+package com.example.EventTicket.Controllers;
 
-import com.example.lab10_iweb_20202132.Beans.evento;
-import com.example.lab10_iweb_20202132.Daos.listaeventoDAO;
-import com.example.lab10_iweb_20202132.Dto.listaeventoDTO;
+import com.example.EventTicket.Beans.evento;
+import com.example.EventTicket.Daos.listaeventoDAO;
+import com.example.EventTicket.Dto.listaeventoDTO;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

@@ -1,9 +1,9 @@
-package com.example.lab10_iweb_20202132.Daos;
+package com.example.EventTicket.Daos;
 
-import com.example.lab10_iweb_20202132.Beans.reserva_item;
-import com.example.lab10_iweb_20202132.Beans.ticket_tipo;
-import com.example.lab10_iweb_20202132.Beans.usuario;
-import com.example.lab10_iweb_20202132.Dto.listareservaDTO;
+import com.example.EventTicket.Beans.reserva_item;
+import com.example.EventTicket.Beans.ticket_tipo;
+import com.example.EventTicket.Beans.usuario;
+import com.example.EventTicket.Dto.listareservaDTO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

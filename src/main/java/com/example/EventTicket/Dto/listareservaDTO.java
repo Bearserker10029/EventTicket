@@ -1,4 +1,4 @@
-package com.example.lab10_iweb_20202132.Dto;
+package com.example.EventTicket.Dto;
 
 import java.sql.Date;
 

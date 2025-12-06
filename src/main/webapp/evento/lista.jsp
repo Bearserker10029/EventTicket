@@ -1,5 +1,5 @@
 <%@ page import="java.util.ArrayList" %>
-    <%@ page import="com.example.lab10_iweb_20202132.Dto.listaeventoDTO" %>
+    <%@ page import="com.example.EventTicket.Dto.listaeventoDTO" %>
         <%@ page contentType="text/html" pageEncoding="UTF-8" %>
             <% ArrayList<listaeventoDTO> listaevento = (ArrayList<listaeventoDTO>) request.getAttribute("listaevento");
                     if (listaevento == null) {

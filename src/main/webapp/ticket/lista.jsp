@@ -1,8 +1,8 @@
 <%@ page import="java.util.ArrayList" %>
-    <%@ page import="com.example.lab10_iweb_20202132.Dto.listaticketsDTO" %>
+    <%@ page import="com.example.EventTicket.Dto.listaticketsDTO" %>
         <%@ page contentType="text/html" pageEncoding="UTF-8" %>
             <jsp:useBean id="listatickets"
-                type="java.util.ArrayList<com.example.lab10_iweb_20202132.Dto.listaticketsDTO>" scope="request" />
+                         type="java.util.ArrayList<com.example.EventTicket.Dto.listaticketsDTO>" scope="request" />
 
             <!DOCTYPE html>
             <html>

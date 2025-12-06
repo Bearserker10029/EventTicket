@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/src/main/java/com/example/lab10_iweb_20202132/Daos/listaeventoDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/example/lab10_iweb_20202132/Daos/listareservaDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/example/lab10_iweb_20202132/Daos/listaticketsDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/EventTicket/Daos/listaeventoDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/EventTicket/Daos/listareservaDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/EventTicket/Daos/listaticketsDAO.java" value="3c56c37d-e833-4b58-842d-0924341cc9c6" />
   </component>
 </project>

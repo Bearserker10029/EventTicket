@@ -1,10 +1,10 @@
-package com.example.lab10_iweb_20202132.Controllers;
+package com.example.EventTicket.Controllers;
 
-import com.example.lab10_iweb_20202132.Beans.reserva_item;
-import com.example.lab10_iweb_20202132.Beans.ticket_tipo;
-import com.example.lab10_iweb_20202132.Beans.usuario;
-import com.example.lab10_iweb_20202132.Daos.listareservaDAO;
-import com.example.lab10_iweb_20202132.Dto.listareservaDTO;
+import com.example.EventTicket.Beans.reserva_item;
+import com.example.EventTicket.Beans.ticket_tipo;
+import com.example.EventTicket.Beans.usuario;
+import com.example.EventTicket.Daos.listareservaDAO;
+import com.example.EventTicket.Dto.listareservaDTO;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

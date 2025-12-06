@@ -1,9 +1,9 @@
 <%@page import="java.util.ArrayList" %>
-<%@ page import="com.example.lab10_iweb_20202132.Beans.usuario" %>
-<%@ page import="com.example.lab10_iweb_20202132.Beans.ticket_tipo" %>
+<%@ page import="com.example.EventTicket.Beans.usuario" %>
+<%@ page import="com.example.EventTicket.Beans.ticket_tipo" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
-<jsp:useBean id="listausuarios" type="java.util.ArrayList<com.example.lab10_iweb_20202132.Beans.usuario>" scope="request"/>
-<jsp:useBean id="listatickets_tipo" type="java.util.ArrayList<com.example.lab10_iweb_20202132.Beans.ticket_tipo>" scope="request"/>
+<jsp:useBean id="listausuarios" type="java.util.ArrayList<com.example.EventTicket.Beans.usuario>" scope="request"/>
+<jsp:useBean id="listatickets_tipo" type="java.util.ArrayList<com.example.EventTicket.Beans.ticket_tipo>" scope="request"/>
 
 <!DOCTYPE html>
 <html>
