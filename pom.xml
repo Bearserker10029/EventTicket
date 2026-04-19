@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>LAB10_IWEB_20202132</artifactId>
+    <artifactId>EventTicket</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>LAB10_IWEB_20202132</name>
+    <name>EventTicket</name>
     <packaging>war</packaging>
 
     <properties>
